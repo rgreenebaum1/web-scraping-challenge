@@ -41,4 +41,3 @@ def scrapper():
 # Define Behavior
 if __name__ == "__main__":
     app.run()
-
